@@ -1,10 +1,9 @@
 # Coronavirus_product_social-media_post_id
-During the pandemic, many products related to COVID-19 have been posted on social media for trading, many of them hasn't been proved by official department, here is the post ID of those commercial posts our group find from Instagram and Twitter. 
+During the pandemic, many products related to COVID-19 have been posted on social media for trading, many of them hasn't been proved by official department, here is the post ID of those commercial posts our group find from Twitter. 
 
 The result is from our study "Big Data, Natural Language Processing, and Deep Learning to Detect and Characterize Illicit Sales of COVID-19 Health Products on Twitter and Instagram" which hasn't bveen published yet.
 
 #### Twitter_covid19_product_post_id.txt contain 1.3k Twitter post id
-#### Instagram_covid19_product_post_id.txt contain 608 Instagram post id
 
 The number may be different from the paper we published since we updated the results if we find new signals.
 
